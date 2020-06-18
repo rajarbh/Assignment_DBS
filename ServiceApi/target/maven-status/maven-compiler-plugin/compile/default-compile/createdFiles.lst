@@ -1,0 +1,6 @@
+com\test\assignment\ServiceApi\service\MovieService.class
+com\test\assignment\ServiceApi\Runner.class
+com\test\assignment\ServiceApi\model\CustomerDetail.class
+com\test\assignment\ServiceApi\App.class
+com\test\assignment\ServiceApi\controller\ServiceController.class
+com\test\assignment\ServiceApi\repository\MovieTicketRepo.class
